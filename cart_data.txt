@@ -1,0 +1,4 @@
+1 |iphone 12| 45000.00 50
+2 |nike shoes| 1500.00 20
+3 |hair oil| 350.00 15
+4 |criket kit| 10000.00 13
